@@ -1,8 +1,8 @@
 # Sizzle & Serve
 
-[![make.fun](https://make.fun/badge/entry/nyaa-desu/makefun-cooking-game-20261125)](https://make.fun/c/best-cooking-game-20261125-0137)
-[![make.fun](https://make.fun/badge/owner/nyaa-desu)](https://make.fun/u/nyaa-desu)
-[![make.fun](https://make.fun/badge/competition/best-cooking-game-20261125-0137)](https://make.fun/c/best-cooking-game-20261125-0137)
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/nyaa-desu/makefun-cooking-game-20261125/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/nyaa-desu/makefun-cooking-game-20261125/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
 
 A tiny kitchen game for the make.fun **best-cooking-game-20261125-0137** bounty.
 One chef, one rush hour: tickets come in on the order board, and you run
